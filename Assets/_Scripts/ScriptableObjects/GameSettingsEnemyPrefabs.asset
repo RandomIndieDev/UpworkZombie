@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baec510c40a3c9c4e956e1704a57d7e7, type: 3}
+  m_Name: GameSettingsEnemyPrefabs
+  m_EditorClassIdentifier: 
+  basicEnemy: {fileID: 8723029214461181755, guid: e3dd0aa8fbf6a294cbaad4997ebe885d, type: 3}
+  largeEnemy: {fileID: 8723029214461181755, guid: 265d2f000fe6708499a29aa75a41648a, type: 3}
+  startingPossibleSpawnAmt: {x: 4, y: 10}
+  spawnIncreaseAmtPer10Meters: 2
+  slowDownEffect: {r: 0.4198113, g: 0.5816425, b: 1, a: 1}
+  hitEffect: {r: 1, g: 0, b: 0, a: 1}
+  m_EnemySpawnRateCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: -0.0047169924
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0.995283
+      inSlope: 2.9312572
+      outSlope: 2.9312572
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.03620702
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_EnemySpawnAmtMinMax: {x: 2, y: 5}
+  m_EnemySpawnTickStartEnd: {x: 2, y: 1}
+  m_MaxDistanceTillMaxValues: 150

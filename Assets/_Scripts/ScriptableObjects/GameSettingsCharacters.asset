@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26185a6e33509646bd350f7d2fdbe04, type: 3}
+  m_Name: GameSettingsCharacters
+  m_EditorClassIdentifier: 
+  meleeSurvivor: {fileID: 5267310106664567582, guid: 2df5b437253e15c48bff46f78c1f1a78, type: 3}
+  handgunSurvivor: {fileID: 4324973107781359472, guid: 12350c15efd7cad479abf8c1ad0f81a7, type: 3}
+  sniperSurvivor: {fileID: 7139277641709168491, guid: d99b2327c4c1b70438dfc2e0b1b02042, type: 3}
+  newSurvivorSpawnChance: 0.7
+  commanderIcon: {fileID: 21300000, guid: 6bb264aa1f031c949950ce8de305c591, type: 3}
+  medicIcon: {fileID: 21300000, guid: c7721944ffa90e3489bc3d4ffd3407ab, type: 3}
+  attributeAssignChance: 0.1
+  healAuraTickRate: 8
+  baseHealAura: 8
+  baseCommanderDamageIncrease: 15
+  survivorHitColor: {r: 1, g: 0.08962262, b: 0.08962262, a: 1}
+  survivorHitColorDuration: 0.2
+  startingMeleeHealth: 150
+  startingMeleeDamage: 25
+  meleeAttackRange: 3
+  startingHandgunHealth: 100
+  startingHandgunDamage: 12
+  startingHandgunRange: 12
+  startingSniperHealth: 80
+  startingSniperDamage: 30
+  startingSniperRange: 30
+  slowDownAmtPercentage: 0.8
+  slowDownTime: 0.2
+  passiveHealPercentage: 0.01
+  passiveHealTickRate: 1
+  survivorRejectedAggroChance: 0.1
+  survivorLevel5Chance: 0.54
+  survivorLevel4Chance: 0.35
+  survivorLevel3Chance: 0.15
+  survivorLevel2Chance: 0.5
+  survivorLevel1Chance: 0.1
+  survivor1SpawnChance: 0.6
+  survivor2SpawnChance: 0.8
+  survivor3SpawnChance: 1
+  rotateTowardsSpeed: 0.5
+  retargetCheckTime: 0.6
+  enemyLayerMask:
+    serializedVersion: 2
+    m_Bits: 256

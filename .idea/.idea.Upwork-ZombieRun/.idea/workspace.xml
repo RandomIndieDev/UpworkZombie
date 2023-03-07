@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db0f73f9-672b-4bfa-81f7-ede701e361e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6E07980A-1F09-4265-930C-B1F27E7E3EC3/5f/2ffcf880/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Doozy/Engine/UI/UIButton/UIButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Doozy/Engine/UI/UIView/UIView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Doozy/Engine/Utils/DoozyUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Doozy/Examples/Scripts/E12PopupManagerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins - Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/UniqueProjectiles/ProjectileMoveScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins - Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/UniqueProjectiles/RotateToMouseScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins - Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/UniqueProjectiles/SpawnProjectilesScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPlane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/CW/LeanTouch/Required/Scripts/LeanTouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathCreator/Core/Runtime/Objects/VertexPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/SpawnPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/AudioManager/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/CameraManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/CharacterPathFollower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterAnimationBridge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterAttributeGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterAttributeHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterNameGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/BaseCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/HandGunCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/IAlly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/MeleeCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/SniperCharacter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/GoToTargetBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/GroupManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/GroupTargetPinger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/Handlers/CharacterAnimationHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/Handlers/CharacterHealthBarHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/ICombat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Characters/New Survivors/NewSurvivorSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EffectsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyAnimationBridge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyAnimationHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyCollisionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyMobSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyRandomizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EventData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EventsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupCharacterSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupInteractionHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupPositionSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/BasicRoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/EnvironmentCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/GroundRepeater.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/MeleeWeaponCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/RangedWeaponCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/RoadCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsCharacters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsEnemiesType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsEnemyPrefabs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsEnvironment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsLevelProgression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StartingScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyAttackState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyDeadState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyIdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyMoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/IState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerAttackState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerDeadState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerIdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerRunState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/StateMachine/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/CharacterStatsPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/DistanceCalculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/GameOverStatsPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/NotificationsPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/SurvivorAcceptPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/TextAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/UIEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/UI/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/CanvasLookAtCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/CharacterMugShotHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/GameHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/LevelProgressionTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/ProjectileType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/RotateParallelToCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/SpawnHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/SwipeDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/Utility/UtilityFunctions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMP_BaseEditorPanel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/New Survivors/NewSurvivorSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterAnimationBridge.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerRunState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/IAlly.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerAttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI/GameOverStatsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EventData.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/Handlers/CharacterHealthBarHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Runner States/RunnerDeadState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyDeadState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EffectsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI/NotificationsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsLevelProgression.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Utility/GeneralUtilities.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/MeleeCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI/UIEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/GoToTargetBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Procedural Scripts/GroundRepeater.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI/CharacterStatsPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyAttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/CharacterPathFollower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins - Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_1/Scripts/UniqueProjectiles/ProjectileMoveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Utility/ProjectileType.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/StateMachine/Enemy States/EnemyMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyCollisionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy/EnemyRandomizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsEnemies.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Enemy/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/UI/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsCharacters.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/BaseCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettingsEnemyPrefabs.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Utility/LevelProgressionTracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Utility/CharacterMugShotHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/CW/LeanCommon/Extras/Scripts/LeanPlane.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/ScriptableObjects/GameSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/SniperCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/CharacterTypes/HandGunCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/AudioManager/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/CameraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Utility/RotateParallelToCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/EventsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Characters/GroupManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupPositionSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Scripts/Group Scripts/GroupInteractionHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EXmvYsCJkzOPeKYJeq19i81nId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db0f73f9-672b-4bfa-81f7-ede701e361e9" name="Default Changelist" comment="" />
+      <created>1662750535366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662750535366</updated>
+      <workItem from="1662750539409" duration="120000" />
+      <workItem from="1662750723743" duration="802000" />
+      <workItem from="1663047722927" duration="1287000" />
+      <workItem from="1663073391256" duration="1579000" />
+      <workItem from="1663075224302" duration="627000" />
+      <workItem from="1663082934738" duration="1690000" />
+      <workItem from="1663091558951" duration="1769000" />
+      <workItem from="1663093498906" duration="2227000" />
+      <workItem from="1663324032499" duration="1122000" />
+      <workItem from="1663564698030" duration="1807000" />
+      <workItem from="1663567702065" duration="1727000" />
+      <workItem from="1663569534070" duration="1770000" />
+      <workItem from="1663571347326" duration="1898000" />
+      <workItem from="1663579562374" duration="1771000" />
+      <workItem from="1663581609093" duration="1799000" />
+      <workItem from="1663583452235" duration="648000" />
+      <workItem from="1663596795976" duration="520000" />
+      <workItem from="1663597363050" duration="1207000" />
+      <workItem from="1663598614582" duration="1352000" />
+      <workItem from="1663609180155" duration="1002000" />
+      <workItem from="1663612262893" duration="1773000" />
+      <workItem from="1663614081930" duration="696000" />
+      <workItem from="1663615892943" duration="1559000" />
+      <workItem from="1663669556710" duration="1768000" />
+      <workItem from="1663671828823" duration="1275000" />
+      <workItem from="1663673913806" duration="1204000" />
+      <workItem from="1663676219758" duration="792000" />
+      <workItem from="1663693710238" duration="1972000" />
+      <workItem from="1663696072106" duration="1395000" />
+      <workItem from="1663859576642" duration="1933000" />
+      <workItem from="1663861567054" duration="1686000" />
+      <workItem from="1663863527724" duration="1771000" />
+      <workItem from="1663865339460" duration="1848000" />
+      <workItem from="1663869654898" duration="1777000" />
+      <workItem from="1663871515692" duration="959000" />
+      <workItem from="1664030801408" duration="1693000" />
+      <workItem from="1664034236655" duration="1773000" />
+      <workItem from="1664036050326" duration="992000" />
+      <workItem from="1664072637655" duration="1774000" />
+      <workItem from="1664074468669" duration="1772000" />
+      <workItem from="1664077454278" duration="1773000" />
+      <workItem from="1664079270636" duration="1489000" />
+      <workItem from="1664082771334" duration="1776000" />
+      <workItem from="1664084774994" duration="2196000" />
+      <workItem from="1664092847660" duration="1772000" />
+      <workItem from="1664107283582" duration="1624000" />
+      <workItem from="1664109105549" duration="1936000" />
+      <workItem from="1664123255076" duration="1811000" />
+      <workItem from="1664125109362" duration="1789000" />
+      <workItem from="1664127126215" duration="664000" />
+      <workItem from="1664186290381" duration="2229000" />
+      <workItem from="1664268229490" duration="710000" />
+      <workItem from="1664270405991" duration="1783000" />
+      <workItem from="1664523076839" duration="1770000" />
+      <workItem from="1664527642245" duration="1763000" />
+      <workItem from="1664530368467" duration="1969000" />
+      <workItem from="1664532741116" duration="2004000" />
+      <workItem from="1664534797093" duration="1408000" />
+      <workItem from="1664539704339" duration="1771000" />
+      <workItem from="1664541517399" duration="240000" />
+      <workItem from="1664601098337" duration="224000" />
+      <workItem from="1664601373974" duration="113000" />
+      <workItem from="1664601514423" duration="1294000" />
+      <workItem from="1664606627413" duration="1885000" />
+      <workItem from="1664608848304" duration="1772000" />
+      <workItem from="1664610661736" duration="1776000" />
+      <workItem from="1664618054732" duration="1771000" />
+      <workItem from="1664619873411" duration="1832000" />
+      <workItem from="1664621748080" duration="1796000" />
+      <workItem from="1664642817375" duration="1772000" />
+      <workItem from="1664644632940" duration="1963000" />
+      <workItem from="1664687709161" duration="1769000" />
+      <workItem from="1664689530403" duration="1828000" />
+      <workItem from="1664692002044" duration="1847000" />
+      <workItem from="1664693897378" duration="1775000" />
+      <workItem from="1664695723140" duration="1479000" />
+      <workItem from="1664702916529" duration="1772000" />
+      <workItem from="1664704742071" duration="1882000" />
+      <workItem from="1664809312048" duration="1194000" />
+      <workItem from="1664842191793" duration="1807000" />
+      <workItem from="1664844484747" duration="1806000" />
+      <workItem from="1664846383159" duration="1600000" />
+      <workItem from="1664849917382" duration="1768000" />
+      <workItem from="1664851915207" duration="1950000" />
+      <workItem from="1664856505657" duration="1809000" />
+      <workItem from="1664858358139" duration="1854000" />
+      <workItem from="1664995612370" duration="1768000" />
+      <workItem from="1664997428000" duration="1762000" />
+      <workItem from="1664999255144" duration="1808000" />
+      <workItem from="1665020752771" duration="878000" />
+      <workItem from="1665025920064" duration="592000" />
+      <workItem from="1665026780594" duration="1624000" />
+      <workItem from="1665219562771" duration="1376000" />
+      <workItem from="1665307057905" duration="1217000" />
+      <workItem from="1665310118457" duration="1223000" />
+      <workItem from="1665312807785" duration="1769000" />
+      <workItem from="1665314615712" duration="2176000" />
+      <workItem from="1665324577501" duration="947000" />
+      <workItem from="1665335905051" duration="1760000" />
+      <workItem from="1665337714054" duration="1606000" />
+      <workItem from="1665339668060" duration="1769000" />
+      <workItem from="1665341483844" duration="1772000" />
+      <workItem from="1665343297893" duration="1282000" />
+      <workItem from="1665346119348" duration="1572000" />
+      <workItem from="1665347945705" duration="1771000" />
+      <workItem from="1665349753705" duration="1773000" />
+      <workItem from="1665351575634" duration="27000" />
+      <workItem from="1665373232003" duration="1768000" />
+      <workItem from="1665375058672" duration="1767000" />
+      <workItem from="1665420988226" duration="46000" />
+      <workItem from="1665421056271" duration="137000" />
+      <workItem from="1665421233231" duration="64000" />
+      <workItem from="1665421334630" duration="167000" />
+      <workItem from="1665421522972" duration="1771000" />
+      <workItem from="1665423641313" duration="1861000" />
+      <workItem from="1665426798696" duration="1778000" />
+      <workItem from="1665429820870" duration="168000" />
+      <workItem from="1665457606559" duration="583000" />
+      <workItem from="1665594003595" duration="1772000" />
+      <workItem from="1665595822685" duration="1471000" />
+      <workItem from="1665800647927" duration="1768000" />
+      <workItem from="1665802834738" duration="1882000" />
+      <workItem from="1665806721716" duration="2002000" />
+      <workItem from="1665808990712" duration="1985000" />
+      <workItem from="1665912914803" duration="1567000" />
+      <workItem from="1665961823454" duration="1766000" />
+      <workItem from="1665963634223" duration="1744000" />
+      <workItem from="1666027027210" duration="1862000" />
+      <workItem from="1666029318705" duration="1768000" />
+      <workItem from="1666031145734" duration="1768000" />
+      <workItem from="1666033237743" duration="1392000" />
+      <workItem from="1666065814631" duration="631000" />
+      <workItem from="1666115952863" duration="1781000" />
+      <workItem from="1666117792058" duration="1770000" />
+      <workItem from="1666119627172" duration="1912000" />
+      <workItem from="1666121684803" duration="1767000" />
+      <workItem from="1666123578616" duration="2045000" />
+      <workItem from="1666129174516" duration="2146000" />
+      <workItem from="1666133921289" duration="1455000" />
+      <workItem from="1666156736548" duration="1767000" />
+      <workItem from="1666158605549" duration="1771000" />
+      <workItem from="1666160423708" duration="858000" />
+      <workItem from="1666456792615" duration="1245000" />
+      <workItem from="1666466027251" duration="1768000" />
+      <workItem from="1666467950595" duration="1960000" />
+      <workItem from="1666532702973" duration="1758000" />
+      <workItem from="1666534559688" duration="1422000" />
+      <workItem from="1666610673058" duration="1649000" />
+      <workItem from="1666666769251" duration="1810000" />
+      <workItem from="1666668640935" duration="1696000" />
+      <workItem from="1666670562409" duration="1475000" />
+      <workItem from="1666732754484" duration="1910000" />
+      <workItem from="1666734711594" duration="1327000" />
+      <workItem from="1666758960318" duration="891000" />
+      <workItem from="1666760656507" duration="123000" />
+      <workItem from="1666760847147" duration="248000" />
+      <workItem from="1666761127089" duration="1716000" />
+      <workItem from="1666847495767" duration="616000" />
+      <workItem from="1667055524496" duration="257000" />
+      <workItem from="1667055812616" duration="1780000" />
+      <workItem from="1667057812403" duration="1759000" />
+      <workItem from="1667059629388" duration="1022000" />
+      <workItem from="1667061472566" duration="1752000" />
+      <workItem from="1667063483418" duration="1773000" />
+      <workItem from="1667065315297" duration="1775000" />
+      <workItem from="1667067138336" duration="1234000" />
+      <workItem from="1667104901707" duration="1748000" />
+      <workItem from="1667106693137" duration="1797000" />
+      <workItem from="1667108700787" duration="1747000" />
+      <workItem from="1667110516282" duration="2339000" />
+      <workItem from="1667117644424" duration="2252000" />
+      <workItem from="1667119997786" duration="824000" />
+      <workItem from="1667127957304" duration="953000" />
+      <workItem from="1667364772446" duration="1051000" />
+      <workItem from="1667638788218" duration="8796000" />
+      <workItem from="1667965789982" duration="4086000" />
+      <workItem from="1668138455730" duration="5235000" />
+      <workItem from="1668260813742" duration="3436000" />
+      <workItem from="1668334263526" duration="1644000" />
+      <workItem from="1668346562508" duration="3423000" />
+      <workItem from="1668479718809" duration="6704000" />
+      <workItem from="1669825168558" duration="2999000" />
+      <workItem from="1669830289811" duration="8976000" />
+      <workItem from="1669961665167" duration="2048000" />
+      <workItem from="1670066892599" duration="14000" />
+      <workItem from="1670067044762" duration="792000" />
+      <workItem from="1671360843820" duration="3179000" />
+      <workItem from="1671379889478" duration="706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

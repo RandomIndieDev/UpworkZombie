@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f394ec5b1a6af0a4e8394568ceef63b5, type: 3}
+  m_Name: WR_SetPieceTest
+  m_EditorClassIdentifier: 
+  setPieces:
+  - {fileID: 7685555937585100702, guid: d2c7c4984de7061448000c2089289089, type: 3}
+  - {fileID: 3236061236495574508, guid: e3329a46e533f034f81315402db90b73, type: 3}
+  - {fileID: 7819517146681295122, guid: 3dcc8c5bc9dc79b46ba5a652c57f90a6, type: 3}
+  - {fileID: 8081923901210036842, guid: 69702e80a23152d45b8bbeb32a3bb0e3, type: 3}
+  - {fileID: 4117218733249710021, guid: c608367c16f78e846bfe9891b257d19c, type: 3}
+  - {fileID: 825887545803119956, guid: 4cda0c8343dbdd84b8f583fe25a11025, type: 3}
+  - {fileID: 9095913516379087636, guid: 8cfeaed8049dfca4e9de0f5ad7a561f3, type: 3}
+  - {fileID: 7550677204869945170, guid: ef443cf970935384281ed43cbe338547, type: 3}
+  - {fileID: 5961410949798085686, guid: 64e9e593f8420934f9bec5271a6a2593, type: 3}
+  - {fileID: 5140322465903122206, guid: ae974945d4e049f4fbaf68097a4dfc2a, type: 3}
+  - {fileID: 782641609927187155, guid: 7f31e0388ff316c4e9d967649e4a8a9b, type: 3}
+  - {fileID: 936424581085411617, guid: 4d41222137c72e548a91b752f25c7c93, type: 3}
+  - {fileID: 6074708628299190054, guid: 93e0a0cd1d4e24648a0dd7b9cababae3, type: 3}
+  - {fileID: 6312459672903880103, guid: 5e78dd87507eb2e40b3fe147e73f6e10, type: 3}
+  - {fileID: 8512199255847583048, guid: 5bf363c516a275d49bf4cdefde431b22, type: 3}
+  - {fileID: 8342917811756114102, guid: 1769351a0a34d2b408e44623e8f51415, type: 3}
+  - {fileID: 6719503245186049249, guid: b407e6c61704cfd43a7149710aeb7b14, type: 3}
+  - {fileID: 5744951447747616965, guid: aa397f5b5cadfeb4f9f393a1e911ceb6, type: 3}
+  - {fileID: 84509335004954588, guid: 66a74128f7544c64a898353d75c15135, type: 3}
+  - {fileID: 4663834052163445421, guid: acba308cf41b7b04fbe23ff74ca53721, type: 3}
+  - {fileID: 6518734032722482499, guid: 97bf7d770f7b90044b7427508204acee, type: 3}
+  - {fileID: 6201740879329363369, guid: 10254c2a9dd522d41ab9e35cad81d703, type: 3}
+  - {fileID: 3869361221392673424, guid: 5fbffd6f83c205249b072251bd10aedc, type: 3}
+  - {fileID: 4649776500469624226, guid: a15e1532fc15d9146936d8fc69b2299b, type: 3}
+  - {fileID: 1253949206360049030, guid: 445397c2fe5f7b944b7b80d2ec3070d4, type: 3}
+  - {fileID: 3495917037788597278, guid: 6156190fd8a700c4b94a402471f8d03c, type: 3}
+  - {fileID: 1944644660879763316, guid: 049e5bd113fb9224e98eb795da974e1b, type: 3}
+  - {fileID: 5622672820984841869, guid: 40dec0197354fd849bf17ce7914f2df2, type: 3}
+  - {fileID: 3198833405672556553, guid: 57947ee8bc3ce0040911614b3aeb6916, type: 3}
+  - {fileID: 3889549742780157696, guid: f692d5c3661ceda419034b0e768a3150, type: 3}
+  setPieceRotationValues: {x: -10, y: 10}
+  setPieceXPosValues: {x: 0, y: 0}
